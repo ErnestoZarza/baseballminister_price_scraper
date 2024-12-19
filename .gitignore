@@ -1,0 +1,33 @@
+# byte-compiled files
+__pycache__/
+*.py[cod]
+
+# virtual environments
+env/
+venv/
+ENV/
+.VENV/
+pip-log.txt
+
+# Packaging
+*.wheel
+*.egg
+*.manifest
+.installed.cfg
+*.spec
+
+# Testing
+.coverage
+.tox/
+.cache/
+nosetests.xml
+pytest_cache/
+.pytest_cache/
+.coverage.*
+*.cover
+
+# macOS
+.DS_Store
+
+# Editor/IDE-specific files
+.idea/
